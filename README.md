@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 Witaj na moim GitHubie!
 
-<!--
-**tolonek/tolonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 O mnie
+Cześć, jestem [Twoje Imię] i jestem programistą pasjonującym się tworzeniem aplikacji webowych i mobilnych.
 
-Here are some ideas to get you started:
+## 🚀 Moje Projekty
+- **Projekt 1:** [Repozytorium](https://github.com/twoj-login/projekt-1)
+  - Krótki opis projektu
+- **Projekt 2:** [Repozytorium](https://github.com/twoj-login/projekt-2)
+  - Krótki opis projektu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Kontakt
+- LinkedIn: [twój-profil](https://www.linkedin.com/in/twoj-profil)
+- Email: twoj.email@example.com
+
+![GitHub followers](https://img.shields.io/github/followers/twoj-login?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/twoj-login?style=social)
