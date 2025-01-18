@@ -1,7 +1,7 @@
 # 🌟 Witaj na moim GitHubie!
 
 ## 👨‍💻 O mnie
-Cześć, jestem [Twoje Imię] i jestem programistą pasjonującym się tworzeniem aplikacji webowych i mobilnych.
+Cześć, jestem tolongames i jestem programistą pasjonującym się tworzeniem aplikacji webowych i mobilnych.
 
 ## 🚀 Moje Projekty
 - **Projekt 1:** [Repozytorium](https://github.com/twoj-login/projekt-1)
@@ -10,8 +10,8 @@ Cześć, jestem [Twoje Imię] i jestem programistą pasjonującym się tworzenie
   - Krótki opis projektu
 
 ## 📫 Kontakt
-- LinkedIn: [twój-profil](https://www.linkedin.com/in/twoj-profil)
-- Email: twoj.email@example.com
+- LinkedIn: [twój-profil](https://www.linkedin.com/in/tolongames)
+- Email: tolongames1999@gmail.com
 
-![GitHub followers](https://img.shields.io/github/followers/twoj-login?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/twoj-login?style=social)
+![GitHub followers](https://img.shields.io/github/followers/tolonek?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/tolonek?style=social)
