@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Password Generator](https://github.com/tolongames/scribelog)<br>👯 I’m looking to collaborate on **Scribelog**<br>🤝 I’m looking for help with **Unity C#**<br>🌱 I’m currently learning **Unity C#** and **React**<br>💬 Ask me about **C#**
+🔭 I’m currently working on [Scribelog](https://github.com/tolongames/scribelog)<br>👯 I’m looking to collaborate on **Scribelog**<br>🤝 I’m looking for help with **Unity C#**<br>🌱 I’m currently learning **Unity C#** and **React**<br>💬 Ask me about **C#**
 
 
 ## 🌐 Socials:
