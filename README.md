@@ -1,22 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on [Scribelog](https://github.com/tolongames/scribelog)<br>👯 I’m looking to collaborate on **Scribelog**<br>🤝 I’m looking for help with **Unity C#**<br>🌱 I’m currently learning **Unity C#** and **React**<br>💬 Ask me about **C#**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=theonlytolon&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Repeat.&descAlignY=58&descSize=18" width="100%" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tolongames) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blockhost) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tolongames) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tolongames) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tolongames) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tolongames1999@gmail.com) 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B7CFF&center=true&vCenter=true&width=600&lines=C%23+Developer+%F0%9F%92%BB;Junior+Unity+Developer+%F0%9F%8E%AE;Building+cool+things+with+code;Always+learning+something+new" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tolongames&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tolongames&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tolongames&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub followers](https://img.shields.io/github/followers/tolongames?style=for-the-badge&logo=github&color=181717)](https://github.com/TWOJ_LOGIN)
+[![GitHub stars](https://img.shields.io/github/stars/tolongames?style=for-the-badge&logo=github&color=yellow)](https://github.com/TWOJ_LOGIN)
+[![Profile Views](https://komarev.com/ghpvc/?username=tolongames&style=for-the-badge&color=blueviolet)](https://github.com/TWOJ_LOGIN)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tolongames&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tolonsmods) 
+## 🧑‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```csharp
+public class Developer
+{
+    public string Name => "TheOnlyTolon";
+    public string[] MainLanguages => new[]
+    {
+        "C#",
+        "SQL"
+    };
+
+    public string[] Interests => new[]
+    {
+        "Game Development",
+        "Unity Engine",
+        "Software Development",
+        "Clean Code"
+    };
+
+    public string CurrentFocus =>
+        "Becoming a better developer every day.";
+
+    public bool IsLearning => true;
+}
+```
+
+- 🔭 Currently working on improving my C# and Unity skills.
+- 🎮 Passionate about game development.
+- 🧠 Learning software architecture and clean coding practices.
+- ⚡ Always experimenting with new ideas and technologies.
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css" />
+
+### 🎮 Game Development
+
+<img src="https://skillicons.dev/icons?i=unity,visualstudio" />
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,windows" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tolongames&theme=tokyonight&hide_border=true" width="65%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+
+</div>
