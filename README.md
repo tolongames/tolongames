@@ -8,9 +8,9 @@
   </a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/tolongames?style=for-the-badge&logo=github&color=181717)](https://github.com/TWOJ_LOGIN)
-[![GitHub stars](https://img.shields.io/github/stars/tolongames?style=for-the-badge&logo=github&color=yellow)](https://github.com/TWOJ_LOGIN)
-[![Profile Views](https://komarev.com/ghpvc/?username=tolongames&style=for-the-badge&color=blueviolet)](https://github.com/TWOJ_LOGIN)
+[![GitHub followers](https://img.shields.io/github/followers/tolongames?style=for-the-badge&logo=github&color=181717)](https://github.com/theonlytolon)
+[![GitHub stars](https://img.shields.io/github/stars/tolongames?style=for-the-badge&logo=github&color=yellow)](https://github.com/theonlytolon)
+[![Profile Views](https://komarev.com/ghpvc/?username=tolongames&style=for-the-badge&color=blueviolet)](https://github.com/theonlytolon)
 
 </div>
 
@@ -21,7 +21,7 @@
 ```csharp
 public class Developer
 {
-    public string Name => "TheOnlyTolon";
+    public string Name => "theonlytolon";
     public string[] MainLanguages => new[]
     {
         "C#",
